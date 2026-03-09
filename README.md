@@ -1,4 +1,4 @@
-# 🤖 InnerWhispers - Modern Ai-Blogging Platform
+# 🤖 InnerWhispers - Modern Blogging Platform
 
 <div align="center">
 
